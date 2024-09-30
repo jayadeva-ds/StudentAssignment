@@ -5,33 +5,21 @@ let students = [
     name: "John",
     class: 10,
     gender: "M",
-    testScores: [
-      { subName: "Math", marks: null },
-      { subName: "Science", marks: null },
-      { subName: "English", marks: null }
-    ]
+    testScores: [] 
     },
     {
         rollNo: 102,
    name: "Jai",
    class: 10,
    gender: "M",
-   testScores: [
-     { subName: "Math", marks: null },
-     { subName: "Science", marks: null },
-     { subName: "English", marks: null }
-   ]
+   testScores: []
 },
 {
     rollNo: 103,
 name: "pradeep",
 class: 10,
 gender: "M",
-testScores: [
- { subName: "Math", marks: null },
- { subName: "Science", marks: null },
- { subName: "English", marks: null }
-]
+testScores: []
 }
 
 ]
